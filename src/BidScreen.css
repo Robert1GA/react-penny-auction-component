@@ -1,0 +1,50 @@
+.item-wrapper {
+  border: 2px solid grey;
+  float: left;
+  height: 330px;
+  width: 200px;
+  text-align: center;
+  position: relative;
+  margin: 10px 5px 15px 5px;
+  border-radius: 8px;
+}
+
+.item-title {
+  font-size: 13pt;
+  border-bottom: 2pt solid grey;
+  height: 53px;
+  vertical-align: bottom;
+}
+
+.itemDesc {
+  color: blue;
+}
+
+.item-time {
+  font-family: Arial;
+  padding-top: 1px;
+  height: 40px;
+  font-size: 20pt;
+  line-height: 40px;
+}
+
+.item-price {
+  color: green;
+  height: 30px;
+  font-size: 16pt;
+  line-height: 30px;
+
+}
+
+.item-better {
+  color: darkgrey;
+  font-weight: bold;
+  font-size: 12pt;
+  height: 30px;
+  line-height: 30px;
+
+}
+
+.bidBtn {
+  padding-top: 12px;
+}
